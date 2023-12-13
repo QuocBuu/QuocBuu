@@ -1,16 +1,12 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Phan Quoc . I am an embedded programmer
+## 📫 How to reach me: 
 
-<!--
-**QuocBuu/QuocBuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/QuocBuu/) 
+ 
+ ![QuocBuu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=QuocBuu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/QuocBuu/archery-game/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="github-readme-stats.vercel.app/api/pin/?username=QuocBuu&repo=QuickDraw&theme=tokyonight" />
+</a>    
